@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Kumbh Sans';
+    src: url('https://fonts.gstatic.com/s/kumbhsans/v22/pxiEyp8kv8JHgFVrJJbecmNE.woff2') format('woff2');
+}
+
+body {
+  font-family: 'Kumbh Sans', Arial, sans-serif;
+  background-color: hsl(25, 100%, 98%);
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
